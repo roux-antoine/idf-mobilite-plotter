@@ -1,0 +1,8 @@
+black
+igraph
+kaleido
+matplotlib
+numpy
+pandas
+plotly
+solidpython2
